@@ -48,6 +48,7 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 * [Basic TDD in your new PHP Package](http://www.sitepoint.com/basic-tdd-new-php-package/)
 * [Test Driven Development with PHP](http://www.paulund.co.uk/test-driven-development-with-php)
 * [PHP Test-Driven Development Automated Tools to Improve Your PHP Code Quality](https://dzone.com/refcardz/phpunit-php-test-driven)
+* [PHP TDD Presentation & Kata by Chris Holland](http://bit.ly/tdd-vids)
 
 
 ### Laravel
