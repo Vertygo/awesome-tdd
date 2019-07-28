@@ -26,7 +26,7 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 
 ## General
 
-* [TDD Anti-patterns] (https://web.archive.org/web/20160304022521/http://blog.james-carr.org/2006/11/03/tdd-anti-patterns/)
+* [TDD Anti-patterns](https://web.archive.org/web/20160304022521/http://blog.james-carr.org/2006/11/03/tdd-anti-patterns/)
 
 ## TDD IN PYTHON
 
