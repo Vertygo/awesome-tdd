@@ -11,7 +11,8 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 **Check out my [blog](https://goodheads.io) or say *hi* on [Twitter](https://twitter.com/unicodeveloper).**
 
 ## Table of Contents
-
+- [General](#General)
+  -  [TDD Anti-patterns](#tdd-anti-patterns)
 - [TDD in Python](#tdd-in-python)
   -  [Django](#django)
 - [TDD in PHP](#tdd-in-php)
@@ -22,6 +23,10 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
   -  [Reactjs](#reactjs)
 - [TDD in Ruby](#tdd-in-ruby)
   -  [Rails](#rails)
+
+## General
+
+* [TDD Anti-patterns] (https://web.archive.org/web/20160304022521/http://blog.james-carr.org/2006/11/03/tdd-anti-patterns/)
 
 ## TDD IN PYTHON
 
