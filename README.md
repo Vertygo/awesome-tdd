@@ -12,7 +12,6 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 
 ## Table of Contents
 - [General](#General)
-  -  [TDD Anti-patterns](#tdd-anti-patterns)
 - [TDD in Python](#tdd-in-python)
   -  [Django](#django)
 - [TDD in PHP](#tdd-in-php)
@@ -27,6 +26,7 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 ## General
 
 * [TDD Anti-patterns](https://web.archive.org/web/20160304022521/http://blog.james-carr.org/2006/11/03/tdd-anti-patterns/)
+* [TDD Tales of overused test doubles](https://principal-it.eu/2021/03/tdd-tales-overused-test-doubles/)
 
 ## TDD IN PYTHON
 
